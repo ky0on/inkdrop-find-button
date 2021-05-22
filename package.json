@@ -1,7 +1,7 @@
 {
 	"name": "find-button",
 	"main": "./lib/index",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Put find button",
 	"keywords": [],
 	"repository": "https://github.com/ky0on/inkdrop-find-button",
