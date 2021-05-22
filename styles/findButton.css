@@ -1,0 +1,24 @@
+.mde-layout {
+	position: relative;
+}
+.findContainer {
+	position: absolute;
+	bottom: 0.4rem;
+	right: 4rem;
+	z-index: 100;
+}
+
+.btnFind {
+	// background-color: var(--note-list-view-item-active-background);
+	color: var(--light-text-color);
+	background-color: var(--note-list-bar-background);
+	padding: 0.5rem;
+	border-radius: 0.35rem;
+	cursor: pointer;
+	border: 1px solid transparent;
+
+	&:hover {
+		border-color: currentcolor;
+	}
+}
+
