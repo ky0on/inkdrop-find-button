@@ -2,9 +2,9 @@
 	"name": "find-button",
 	"main": "./lib/index",
 	"version": "0.1.0",
-	"description": "",
+	"description": "Put find button",
 	"keywords": [],
-	"repository": "",
+	"repository": "https://github.com/ky0on/inkdrop-find-button",
 	"license": "MIT",
 	"engines": {
 		"inkdrop": "^5.x"
